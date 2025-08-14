@@ -76,7 +76,7 @@ export default function Login() {
                 <div className="full-line"></div>
                 <footer>
                     <a target="_blank" href="https://github.com/SyntaxTiwari11/nextjs-15-course">
-                        <img alt="pfp" src="https://avatars.githubusercontent.com/u/77163783?v=4" />
+                        <img alt="pfp" src="https://avatars.githubusercontent.com/u/223843301?v=4" />
                         <h6>@jamezmca</h6>
                         <i className="fa-brands fa-github"></i>
                     </a>
